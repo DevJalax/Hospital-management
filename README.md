@@ -80,6 +80,15 @@
   - Generate dispensing records for each patient, ensuring medications are correctly dispensed as per prescribed instructions.
   - Track medications dispensed based on patient IDs, enabling accurate medication history tracking and preventing fraud.
 
+## Microservices for the above :
+
+1) doctor-onboard/deboard
+2) patient-onboard
+3) health-record-maintenance
+4) appointment-schedule
+5) add-patient-to-queue
+6) medecine-dispinse and tracking
+
 
 ## ER diagram :
 
